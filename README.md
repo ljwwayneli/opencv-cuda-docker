@@ -1,6 +1,7 @@
 # opencv-cuda-docker
 
-OpenCV with CUDA docker image build settings based on CUDA containers.
+OpenCV with CUDA docker image build settings based on CUDA containers.<br>
+Feel free to quote and modify as needed.
 
 ## System Requirement
 
@@ -12,7 +13,7 @@ OpenCV with CUDA docker image build settings based on CUDA containers.
 
 ## Build Image
 
-Modify the video_codec_sdk path in dockerfile and execute `build_image.sh`.<br>
+Modify the `video_codec_sdk` zip file path in dockerfile and execute `build_image.sh`.<br>
 If necessary, you can use ARG to adjust the version number in dockerfile.
 
 ## Push Image
