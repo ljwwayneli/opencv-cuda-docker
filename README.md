@@ -5,7 +5,7 @@ Feel free to quote and modify as needed.
 
 ## System Requirement
 
-- Ubuntu 20.04 / 22.04
+- Ubuntu 22.04
 - NVIDIA GPU driver version **535.104.05** or later.
 - Docker engine.
 - NVIDIA container runtime.
